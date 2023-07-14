@@ -16,7 +16,7 @@ npx deep-export --url <url> --jwt <jwt> --file <file> [--overwrite] [--debug]
 ```
 If downloaded globally:
 ```shell
-deep-import --url <url> --jwt <jwt> --file <file> [--overwrite] [--debug]
+deep-export --url <url> --jwt <jwt> --file <file> [--overwrite] [--debug]
 ```
 
 --url: The URL to export data from. (required)  
